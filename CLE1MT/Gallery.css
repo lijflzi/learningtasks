@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+p{
+        font-size: 18px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        padding-left: 10px;
+        float: center;
+        padding-top: 10px;
+}
+
+p a{
+    text-decoration: none;
+    color: black;
+}
+p a:hover{
+    color: red;
+}
