@@ -13,6 +13,7 @@
      <li><a href="/CLE1MT/index.html">CLE1MT</a></li>
      <li><a href="/LT4/index.html">LEARNING TASK 4</a></li>
      <li><a href="/LT5/index.html">LEARNING TASK 5</a></li>
+     <li><a href="/LIJLT6/index.html">CLE1ET</a></li>
  </ul>
  </body>
 </html> 
